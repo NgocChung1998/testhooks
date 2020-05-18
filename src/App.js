@@ -5,7 +5,7 @@ import ColorBox from './Compunents/ColorBox';
 function App() {
   return (
     <div className="app">
-     <h1>Hello React-Hook</h1>
+     <h1> React-Hook</h1>
     </div>
 
   );
