@@ -4,7 +4,7 @@ import './App.scss';
 function App() {
   return (
     <div className="app">
-     <h1>Hi</h1>
+     <h1>Hello React-Hook</h1>
     </div>
   );
 }
