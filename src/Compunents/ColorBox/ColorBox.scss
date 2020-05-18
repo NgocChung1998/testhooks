@@ -1,0 +1,16 @@
+.color-box{
+    $box-size:200px;
+    display: inline-block;
+    height: $box-size;
+    width: $box-size;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    margin: 0 40%;
+    transition: all .3s  ease-in-out;
+    cursor: pointer;
+    & h3{
+        margin: 0;
+        line-height: $box-size;
+    }
+}
